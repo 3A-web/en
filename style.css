@@ -141,6 +141,8 @@ padding-bottom:	.4rem;
 	 font-size:1.1rem;
 	 
  }
+
+	
  /*---Service Section--*/
  .fixed {
 	 background-image: url(img/mountains.jpeg);
@@ -193,11 +195,12 @@ padding-bottom:	.4rem;
  }
  
  footer img{
-	 height:3rem;
-	 margin:1.5rem 0;
-	 
-	 
+	 /* REC: increasing the size of the Contact Logo */
+	 /* height:3rem; */
+	 height:7rem;
+	 margin:1.5rem 0;	 
  }
+ 
  hr.socket {
 	 
 	 width:100%;
